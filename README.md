@@ -24,4 +24,4 @@ If you'd like to contribute, please fork the repository and create a pull reques
 Acknowledgments
 [Shery JS🚀] Project 2: Modern Web Development | HTML | CSS | JS 
 and thier video's link : https://www.youtube.com/watch?v=pv60QrlO4yM
-@sheryiislive
+@sheryislive
