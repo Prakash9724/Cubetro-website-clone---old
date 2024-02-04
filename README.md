@@ -10,7 +10,7 @@ CSS
 JavaScript
 Shery Js  From Sheriyans Coding School
 
-Clone the repository: git clone https://github.com/your-username/website-clone.git
+Clone the repository: git clone https://github.com/Prakash9724/Cubetro-website-clone---old
 Navigate to the project directory: cd website-clone
 Open the index.html file in your web browser.
 Usage
